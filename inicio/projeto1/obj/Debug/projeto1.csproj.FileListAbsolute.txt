@@ -1,0 +1,9 @@
+C:\repositorio\treinamento\inicio\projeto1\bin\Debug\projeto1.exe.config
+C:\repositorio\treinamento\inicio\projeto1\bin\Debug\projeto1.exe
+C:\repositorio\treinamento\inicio\projeto1\bin\Debug\projeto1.pdb
+C:\repositorio\treinamento\inicio\projeto1\obj\Debug\projeto1.csprojResolveAssemblyReference.cache
+C:\repositorio\treinamento\inicio\projeto1\obj\Debug\projeto1.Form1.resources
+C:\repositorio\treinamento\inicio\projeto1\obj\Debug\projeto1.Properties.Resources.resources
+C:\repositorio\treinamento\inicio\projeto1\obj\Debug\projeto1.csproj.GenerateResource.Cache
+C:\repositorio\treinamento\inicio\projeto1\obj\Debug\projeto1.exe
+C:\repositorio\treinamento\inicio\projeto1\obj\Debug\projeto1.pdb
